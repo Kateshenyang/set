@@ -1,5 +1,5 @@
-import { Character } from './src/character';
-import { Team } from './src/team';
+import { Character } from '../character';
+import { Team } from '../team';
 
 const team = new Team();
 const knight = new Character('Knight');

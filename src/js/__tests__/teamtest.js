@@ -1,5 +1,5 @@
-import { Character } from './character';
-import { Team } from './team';
+import { Character } from '../character';
+import { Team } from '../team';
 
 describe('Character', () => {
   test('should create a character with a name', () => {
